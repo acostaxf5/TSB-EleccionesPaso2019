@@ -5,7 +5,7 @@ Repositorio para el Trabajo Práctico Único de la materia TSB
 - Acosta, Facundo Leonel [Legajo: 72100]
 
 # Aclaraciones
-A los efectos de reducir espacio en disco local y en nube mediante este mismo repositorio, se comprimen dos archivos que deberán descomprimirse en la carpeta raíz del proyecto antes de ejecutar el proyecto.
+A efectos de reducir espacio en disco local y en nube mediante este mismo repositorio, se comprimen dos archivos que deberán descomprimirse en la carpeta raíz del proyecto antes de ejecutar el proyecto.
 
 Los archivos comprimidos, se identifican por los siguientes nombres:
 - dataArchivePASO2019.rar
